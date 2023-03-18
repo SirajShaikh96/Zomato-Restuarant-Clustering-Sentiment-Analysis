@@ -63,8 +63,6 @@
 ![aggloroclus](https://user-images.githubusercontent.com/116551866/226089621-c61a5747-6cda-4a33-85cb-620957908b00.PNG)
 
 
-![dendo](https://user-images.githubusercontent.com/116551866/226089624-2f1d5039-3a0c-4b05-bdf4-7d6c01dda485.PNG)
-
 
 # 📋 Model Performance
 ![table1](https://user-images.githubusercontent.com/116551866/226089411-624e4653-d6b4-489d-9901-0531f5ab8e61.PNG)
@@ -96,8 +94,8 @@
 8.  Through NLP we found that higher the rating, positive is the sentiment and lower the rating, negative is the sentiment. 
 
 
-#Conclusion from above data wrangling, that this top 10 critic's by follower are very important, b'coz they have follower and people trust thier reviews and rating. So a Restuarant can call this critic's and can colaborate with them to promote thier restuarant on Zomato and on their blogs. Which will increase the trust among new customers and bring them more revenue.
+# Conclusion from above data wrangling, that this top 10 critic's by follower are very important, b'coz they have follower and people trust thier reviews and rating. So a Restuarant can call this critic's and can colaborate with them to promote thier restuarant on Zomato and on their blogs. Which will increase the trust among new customers and bring them more revenue.
 
-#For clustering the restuarant both we can use both model as the clsuter of both models is same.  
+# For clustering the restuarant both we can use both model as the clsuter of both models is same.  
 
-#In this project we've final NaiveBayes model for understanding the sentiment, b'coz it's f1 score is 79% and here model f1 score is important. f1 score is the final metric we're taking into account
+# In this project we've final NaiveBayes model for understanding the sentiment, b'coz it's f1 score is 79% and here model f1 score is important. f1 score is the final metric we're taking into account
