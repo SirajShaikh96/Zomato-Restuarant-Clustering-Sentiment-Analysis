@@ -12,54 +12,54 @@
 
 # 📋 Visualizations
 
-#1)Most expensive restuarant
+# 1) Most expensive restuarant
 ![Cost](https://user-images.githubusercontent.com/116551866/226087928-aea98bf9-934c-45fe-bd13-29268e4fba6a.PNG)
 
-#2)Least expensive restuarant
+# 2) Least expensive restuarant
 ![leastex](https://user-images.githubusercontent.com/116551866/226088243-c73967f7-a42c-4d4b-958c-2837e1d5d447.PNG)
 
-#3)Most 15 served cuisines
+# 3) Most 15 served cuisines
 ![mostserved](https://user-images.githubusercontent.com/116551866/226088266-6846de7e-dca9-4868-9b44-915aa91a3906.PNG)
 
-#4)Most 15 used tags
+# 4) Most 15 used tags
 ![taggs](https://user-images.githubusercontent.com/116551866/226088281-3099cc6b-6a14-4ac3-95c8-79b461afc70a.PNG)
 
-#4) Elbow Method
+# 5) Elbow Method
 ![no_scluter](https://user-images.githubusercontent.com/116551866/226088306-b11829ac-2afc-4e14-ba1f-4735c3bd6047.PNG)
 
-#5) Silhuoette coefficient
+# 6) Silhuoette coefficient
 ![Silhuoette coefficient](https://user-images.githubusercontent.com/116551866/226088335-dac3a481-a89f-42da-809e-f1c3fa0457fe.PNG)
 
-#6)Silhuoette score
+# 7)Silhuoette score
 ![Silhuoette score](https://user-images.githubusercontent.com/116551866/226088376-ae7836ee-d824-4efc-b38a-a96e64d91999.PNG)
 
-#7) Average cost of clusters
+# 8) Average cost of clusters
 ![clustercost](https://user-images.githubusercontent.com/116551866/226088404-c88a7a04-de74-4e77-b208-ea2db4fd10ef.PNG)
 
-#8)Raintg
+# 9)Raintg
 ![rating](https://user-images.githubusercontent.com/116551866/226088715-859ba5ee-39df-4337-873e-0db59c75e05c.PNG)
 
-#9) Restuarant by Rating
+# 10) Restuarant by Rating
 ![resbyrating](https://user-images.githubusercontent.com/116551866/226088779-70688a0b-544e-431a-aa71-4321acdb95ca.PNG)
 
-#10) Critics by followers
+# 11) Critics by followers
 ![criticsfollower](https://user-images.githubusercontent.com/116551866/226088987-c2e07e52-e7b4-4c3b-901d-d0211777164b.PNG)
 
-#11) Critics by revies
+# 12) Critics by revies
 ![criticsrev](https://user-images.githubusercontent.com/116551866/226089136-2b6d5eab-e5c9-4a5a-afd6-7e0c269ff992.PNG)
 
-#12) Sentiment of reviews according to rating
+# 13) Sentiment of reviews according to rating
 ![senti](https://user-images.githubusercontent.com/116551866/226089256-d509a4db-90fa-49ef-9e29-23c60ae17b63.PNG)
 
 # 📋 Model Used-
 
-#1) KMeans Clustering
+# 1) KMeans Clustering
 ![Kmeans](https://user-images.githubusercontent.com/116551866/226089618-4e91c2f3-2d17-45e9-91a6-768892cbd6fa.PNG)
 
-#2) Dendogram
+# 2) Dendogram
 ![dendo](https://user-images.githubusercontent.com/116551866/226089624-2f1d5039-3a0c-4b05-bdf4-7d6c01dda485.PNG)
 
-#3) Agglomerative clustering
+# 3) Agglomerative clustering
 ![aggloroclus](https://user-images.githubusercontent.com/116551866/226089621-c61a5747-6cda-4a33-85cb-620957908b00.PNG)
 
 
